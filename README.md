@@ -8,7 +8,7 @@ This repository contains the data analysis scripts and generated visualizations 
 
 ## Repository Contents
 * `slr_data_analysis.py`: Python script using `matplotlib` to parse our extracted literature tagging data and generate quantitative visualizations.
-* fig_1, fig_2, and fig_3 files are the output charts (Publication Timeline, Language Distribution, Domain Mapping).
+* `fig_1`, `fig_2`, and `fig_3` files are the output charts (Publication Timeline, Language Distribution, Domain Mapping).
 
 ## Key Findings Analyzed in this Repo
 1. **The LLM Research Paper Surge:** A massive spike in publication volume from 2023-2025.
