@@ -1,4 +1,4 @@
-# # UG Thesis: Systematic Literature Review: Multilingual & Multimodal Conversational Agents
+## UG Thesis: SLR On Multilingual & Multimodal Conversational Agents
 **Authors:** Joys James & Sophia Morris  
 **Supervisors:** Dr. En-Shiun Annie Lee & Dr. Muhammad Usman  
 **Institution:** Ontario Tech University  
